@@ -7,11 +7,15 @@ timeBlockArray.forEach((timeblock) => {
     //get hour from timeblock each of them
     const hour = timeblock.getAttribute("hour");
     if (hour < currentHour) {
+
         timeblock.classList.add("past");
+     
     } else if (hour == currentHour) {
         timeblock.classList.add("present");
+       
     } else if (hour > currentHour) {
         timeblock.classList.add("future");
+       
     }
 });
 
