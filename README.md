@@ -1,3 +1,4 @@
+
 # Day Planner
 
 ## Description
@@ -27,6 +28,7 @@ MOMENTS.js
 FONT AWESOME
 GOOGLE FONTS
 
-## Visual
+## Screen Shot
+<img width="1440" alt="Screen Shot 2021-05-26 at 9 38 15 PM" src="https://user-images.githubusercontent.com/78839909/119767032-fddf1b00-be6a-11eb-8c76-7d6626a20085.png">
 
 ## LINKS
